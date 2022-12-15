@@ -1,2 +1,2 @@
 # Gades9090.github.io
-[ссылка на бота] (@DontBlockMeINeedMoneybot)
+[ссылка на бота](@DontBlockMeINeedMoneybot)
